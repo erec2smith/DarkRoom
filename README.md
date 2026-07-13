@@ -11,7 +11,7 @@
 
 </div>
 
-![DarkRoom preview](images/front.jpg)
+<a href="https://darkroomm.netlify.app" target="_blank">![DarkRoom preview](https://github.com/erec2smith/DarkRoom/blob/main/images/front.jpeg)</a>
 
 ## About
 
