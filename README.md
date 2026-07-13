@@ -42,7 +42,7 @@ It was built as a front-end project to explore the HTML5 Canvas API, CSS filter 
 ## Project Structure
 
 ```
-image-editor/
+DarkRoom/
 ├── index.html
 ├── package.json
 ├── tsconfig.json
